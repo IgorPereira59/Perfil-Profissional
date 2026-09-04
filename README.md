@@ -31,6 +31,6 @@ Sou um profissional em formação na área de Tecnologia, com um forte objetivo 
 
 ### 📫 Como me encontrar
 - **E-mail:** [britoszcb@gmail.com]
-
+- **LinkedIn:**[ https://www.linkedin.com/in/igor-pereira-754067382?utm_source=share_via&utm_content=profile&utm_medium=member_android ]
 ---
 *"A lógica de programação e a compreensão da estrutura dos sistemas são as primeiras linhas de defesa."*
